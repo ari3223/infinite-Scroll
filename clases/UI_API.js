@@ -30,8 +30,7 @@ class UI_API {
                a.appendChild(img);
                picplace.appendChild(a);
                if(index === 2 && img.complete){
-                   console.log('obj');
-                  ui.loadingEnd();
+                   alert('salam')
                   }
                
                });
